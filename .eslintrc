@@ -1,3 +1,16 @@
 {
-  "extends": "@antfu"
+  "extends": "@antfu",
+  "rules": {
+    "no-undef": "off",
+    "comma-dangle": [
+      "warn",
+      "never"
+    ],
+    "@typescript-eslint/comma-dangle": "off",
+    "arrow-parens": [
+      "warn",
+      "as-needed"
+    ],
+    "no-console": "off"
+  }
 }
