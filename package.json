@@ -46,7 +46,8 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
-    "diff-match-patch": "^1.0.5"
+    "diff-match-patch": "^1.0.5",
+    "typeit": "^8.7.0"
   },
   "devDependencies": {
     "@antfu/eslint-config": "^0.25.2",
