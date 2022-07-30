@@ -1,0 +1,511 @@
+// Vitest Snapshot v1
+
+exports[`animator > animator 1`] = `
+[
+  {
+    "cursor": 104,
+    "output": "
+import { describe, expect, it } from 'vitest'
+
+describe('should', () => {
+  it('exporte', () => {
+    expect(1).toEqual(1)
+  })
+})
+",
+  },
+  {
+    "cursor": 103,
+    "output": "
+import { describe, expect, it } from 'vitest'
+
+describe('should', () => {
+  it('export', () => {
+    expect(1).toEqual(1)
+  })
+})
+",
+  },
+  {
+    "cursor": 102,
+    "output": "
+import { describe, expect, it } from 'vitest'
+
+describe('should', () => {
+  it('expor', () => {
+    expect(1).toEqual(1)
+  })
+})
+",
+  },
+  {
+    "cursor": 101,
+    "output": "
+import { describe, expect, it } from 'vitest'
+
+describe('should', () => {
+  it('expo', () => {
+    expect(1).toEqual(1)
+  })
+})
+",
+  },
+  {
+    "cursor": 100,
+    "output": "
+import { describe, expect, it } from 'vitest'
+
+describe('should', () => {
+  it('exp', () => {
+    expect(1).toEqual(1)
+  })
+})
+",
+  },
+  {
+    "cursor": 99,
+    "output": "
+import { describe, expect, it } from 'vitest'
+
+describe('should', () => {
+  it('ex', () => {
+    expect(1).toEqual(1)
+  })
+})
+",
+  },
+  {
+    "cursor": 98,
+    "output": "
+import { describe, expect, it } from 'vitest'
+
+describe('should', () => {
+  it('e', () => {
+    expect(1).toEqual(1)
+  })
+})
+",
+  },
+  {
+    "cursor": 97,
+    "output": "
+import { describe, expect, it } from 'vitest'
+
+describe('should', () => {
+  it('', () => {
+    expect(1).toEqual(1)
+  })
+})
+",
+  },
+  {
+    "cursor": 82,
+    "output": "
+import { describe, expect, it } from 'vitest'
+
+describe('should', () => {
+  it('o', () => {
+    expect(1).toEqual(1)
+  })
+})
+",
+  },
+  {
+    "cursor": 83,
+    "output": "
+import { describe, expect, it } from 'vitest'
+
+describe('should', () => {
+  it('on', () => {
+    expect(1).toEqual(1)
+  })
+})
+",
+  },
+  {
+    "cursor": 84,
+    "output": "
+import { describe, expect, it } from 'vitest'
+
+describe('should', () => {
+  it('one', () => {
+    expect(1).toEqual(1)
+  })
+})
+",
+  },
+  {
+    "cursor": 108,
+    "output": "
+import { describe, expect, it } from 'vitest'
+
+describe('should', () => {
+  it('one', () => {
+    expect().toEqual(1)
+  })
+})
+",
+  },
+  {
+    "cursor": 107,
+    "output": "
+import { describe, expect, it } from 'vitest'
+
+describe('should', () => {
+  it('one', () => {
+    expect(o).toEqual(1)
+  })
+})
+",
+  },
+  {
+    "cursor": 108,
+    "output": "
+import { describe, expect, it } from 'vitest'
+
+describe('should', () => {
+  it('one', () => {
+    expect(on).toEqual(1)
+  })
+})
+",
+  },
+  {
+    "cursor": 109,
+    "output": "
+import { describe, expect, it } from 'vitest'
+
+describe('should', () => {
+  it('one', () => {
+    expect(one).toEqual(1)
+  })
+})
+",
+  },
+  {
+    "cursor": 123,
+    "output": "
+import { describe, expect, it } from 'vitest'
+
+describe('should', () => {
+  it('one', () => {
+    expect(one).toEqual(1)
+   })
+})
+",
+  },
+  {
+    "cursor": 124,
+    "output": "
+import { describe, expect, it } from 'vitest'
+
+describe('should', () => {
+  it('one', () => {
+    expect(one).toEqual(1)
+    })
+})
+",
+  },
+  {
+    "cursor": 125,
+    "output": "
+import { describe, expect, it } from 'vitest'
+
+describe('should', () => {
+  it('one', () => {
+    expect(one).toEqual(1)
+     })
+})
+",
+  },
+  {
+    "cursor": 126,
+    "output": "
+import { describe, expect, it } from 'vitest'
+
+describe('should', () => {
+  it('one', () => {
+    expect(one).toEqual(1)
+      })
+})
+",
+  },
+  {
+    "cursor": 127,
+    "output": "
+import { describe, expect, it } from 'vitest'
+
+describe('should', () => {
+  it('one', () => {
+    expect(one).toEqual(1)
+    e  })
+})
+",
+  },
+  {
+    "cursor": 128,
+    "output": "
+import { describe, expect, it } from 'vitest'
+
+describe('should', () => {
+  it('one', () => {
+    expect(one).toEqual(1)
+    ex  })
+})
+",
+  },
+  {
+    "cursor": 129,
+    "output": "
+import { describe, expect, it } from 'vitest'
+
+describe('should', () => {
+  it('one', () => {
+    expect(one).toEqual(1)
+    exp  })
+})
+",
+  },
+  {
+    "cursor": 130,
+    "output": "
+import { describe, expect, it } from 'vitest'
+
+describe('should', () => {
+  it('one', () => {
+    expect(one).toEqual(1)
+    expe  })
+})
+",
+  },
+  {
+    "cursor": 131,
+    "output": "
+import { describe, expect, it } from 'vitest'
+
+describe('should', () => {
+  it('one', () => {
+    expect(one).toEqual(1)
+    expec  })
+})
+",
+  },
+  {
+    "cursor": 132,
+    "output": "
+import { describe, expect, it } from 'vitest'
+
+describe('should', () => {
+  it('one', () => {
+    expect(one).toEqual(1)
+    expect  })
+})
+",
+  },
+  {
+    "cursor": 133,
+    "output": "
+import { describe, expect, it } from 'vitest'
+
+describe('should', () => {
+  it('one', () => {
+    expect(one).toEqual(1)
+    expect(  })
+})
+",
+  },
+  {
+    "cursor": 134,
+    "output": "
+import { describe, expect, it } from 'vitest'
+
+describe('should', () => {
+  it('one', () => {
+    expect(one).toEqual(1)
+    expect(t  })
+})
+",
+  },
+  {
+    "cursor": 135,
+    "output": "
+import { describe, expect, it } from 'vitest'
+
+describe('should', () => {
+  it('one', () => {
+    expect(one).toEqual(1)
+    expect(tw  })
+})
+",
+  },
+  {
+    "cursor": 136,
+    "output": "
+import { describe, expect, it } from 'vitest'
+
+describe('should', () => {
+  it('one', () => {
+    expect(one).toEqual(1)
+    expect(two  })
+})
+",
+  },
+  {
+    "cursor": 137,
+    "output": "
+import { describe, expect, it } from 'vitest'
+
+describe('should', () => {
+  it('one', () => {
+    expect(one).toEqual(1)
+    expect(two)  })
+})
+",
+  },
+  {
+    "cursor": 138,
+    "output": "
+import { describe, expect, it } from 'vitest'
+
+describe('should', () => {
+  it('one', () => {
+    expect(one).toEqual(1)
+    expect(two).  })
+})
+",
+  },
+  {
+    "cursor": 139,
+    "output": "
+import { describe, expect, it } from 'vitest'
+
+describe('should', () => {
+  it('one', () => {
+    expect(one).toEqual(1)
+    expect(two).t  })
+})
+",
+  },
+  {
+    "cursor": 140,
+    "output": "
+import { describe, expect, it } from 'vitest'
+
+describe('should', () => {
+  it('one', () => {
+    expect(one).toEqual(1)
+    expect(two).to  })
+})
+",
+  },
+  {
+    "cursor": 141,
+    "output": "
+import { describe, expect, it } from 'vitest'
+
+describe('should', () => {
+  it('one', () => {
+    expect(one).toEqual(1)
+    expect(two).toE  })
+})
+",
+  },
+  {
+    "cursor": 142,
+    "output": "
+import { describe, expect, it } from 'vitest'
+
+describe('should', () => {
+  it('one', () => {
+    expect(one).toEqual(1)
+    expect(two).toEq  })
+})
+",
+  },
+  {
+    "cursor": 143,
+    "output": "
+import { describe, expect, it } from 'vitest'
+
+describe('should', () => {
+  it('one', () => {
+    expect(one).toEqual(1)
+    expect(two).toEqu  })
+})
+",
+  },
+  {
+    "cursor": 144,
+    "output": "
+import { describe, expect, it } from 'vitest'
+
+describe('should', () => {
+  it('one', () => {
+    expect(one).toEqual(1)
+    expect(two).toEqua  })
+})
+",
+  },
+  {
+    "cursor": 145,
+    "output": "
+import { describe, expect, it } from 'vitest'
+
+describe('should', () => {
+  it('one', () => {
+    expect(one).toEqual(1)
+    expect(two).toEqual  })
+})
+",
+  },
+  {
+    "cursor": 146,
+    "output": "
+import { describe, expect, it } from 'vitest'
+
+describe('should', () => {
+  it('one', () => {
+    expect(one).toEqual(1)
+    expect(two).toEqual(  })
+})
+",
+  },
+  {
+    "cursor": 147,
+    "output": "
+import { describe, expect, it } from 'vitest'
+
+describe('should', () => {
+  it('one', () => {
+    expect(one).toEqual(1)
+    expect(two).toEqual(2  })
+})
+",
+  },
+  {
+    "cursor": 148,
+    "output": "
+import { describe, expect, it } from 'vitest'
+
+describe('should', () => {
+  it('one', () => {
+    expect(one).toEqual(1)
+    expect(two).toEqual(2)  })
+})
+",
+  },
+  {
+    "cursor": 149,
+    "output": "
+import { describe, expect, it } from 'vitest'
+
+describe('should', () => {
+  it('one', () => {
+    expect(one).toEqual(1)
+    expect(two).toEqual(2)
+  })
+})
+",
+  },
+]
+`;

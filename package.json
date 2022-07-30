@@ -37,7 +37,8 @@
   ],
   "scripts": {
     "build": "unbuild",
-    "dev": "unbuild --stub",
+    "dev": "vite",
+    "stub": "unbuild --stub",
     "lint": "eslint .",
     "publicOnly": "nr build",
     "release": "bumpp && npm publish",
@@ -46,8 +47,7 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
-    "diff-match-patch": "^1.0.5",
-    "typeit": "^8.7.0"
+    "diff-match-patch": "^1.0.5"
   },
   "devDependencies": {
     "@antfu/eslint-config": "^0.25.2",
