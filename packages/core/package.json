@@ -1,0 +1,48 @@
+{
+  "name": "@merlinalexhjp/type-writer",
+  "type": "module",
+  "version": "0.0.0",
+  "packageManager": "pnpm@7.2.1",
+  "description": "",
+  "author": "Merlin Alex <merlinalex@qq.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/huangjingping520/type-writer#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huangjingping520/type-writer.git",
+    "directory": "packages/core"
+  },
+  "bugs": "https://github.com/huangjingping520/type-writer/issues",
+  "keywords": [],
+  "sideEffects": false,
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "require": "./dist/index.cjs",
+      "import": "./dist/index.mjs"
+    }
+  },
+  "main": "./dist/index.mjs",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "typesVersions": {
+    "*": {
+      "*": [
+        "./dist/*",
+        "./dist/index.d.ts"
+      ]
+    }
+  },
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "unbuild",
+    "stub": "unbuild --stub",
+    "publicOnly": "nr build"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "diff-match-patch": "^1.0.5"
+  }
+}
